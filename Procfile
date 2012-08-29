@@ -1,1 +1,1 @@
-web: bin/gostbook
+web: bin/her_goweb
